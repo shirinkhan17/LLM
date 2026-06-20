@@ -24,11 +24,4 @@ Includes:
 
 ---
 
-## Recommendation Systems
 
-* Collaborative Filtering
-* Matrix Factorization
-* Wide & Deep
-* DeepFM
-* Two-Tower Models
-* Retrieval vs Ranking
