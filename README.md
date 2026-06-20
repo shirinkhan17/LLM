@@ -13,14 +13,7 @@ Includes:
 - modern LLM architectures
 
 
-### LLM Topics
 
-* Fine-Tuning
-* LoRA
-* RLHF
-* RAG
-* Vector Databases
-* Prompt Engineering
 
 ---
 
